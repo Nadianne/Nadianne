@@ -1,8 +1,9 @@
 # Welcome 🤍
 
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+everyone;I'm+Nadianne+Galvão)](https://git.io/typing-svg)
-
-### I am a student of the Information Systems program at the Federal University of Sergipe. Currently in the eighth semester. Throughout my course, I have developed skills in development, software engineering, database, computer networks, among others. Currently, I have also focusing my studies in the field of cybersecurity.
+</div>
+###### I am a student of the Information Systems program at the Federal University of Sergipe. Currently in the eighth semester. Throughout my course, I have developed skills in development, software engineering, database, computer networks, among others. Currently, I have also focusing my studies in the field of cybersecurity.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadianne-galv%C3%A3o-842833148/)
 [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/nadiannegalvao)
@@ -28,4 +29,9 @@
 <div style="display: inline_block">
   <img align="center" alt="Go" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img align="center" alt="Java" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img align="center" alt="Java" src="  https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
+
 </div><br/>
+
+
+
