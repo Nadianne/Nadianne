@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi everyone, i'm Nadianne Galvão 💟
+
+[!Linkedin(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadianne-galv%C3%A3o-842833148/)
+[!Behance(https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)]
 
 <!--
 **Nadianne/Nadianne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
