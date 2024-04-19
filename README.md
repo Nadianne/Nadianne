@@ -27,11 +27,11 @@
 #### Studying in this moment:
 <div style="display: inline_block">
   <img align="center" alt="Go" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img align="center" alt="Hacker" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
 </div><br/>
 
 
 
 
-###### *Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up*
+###### *Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up; Galatians 6:9*
