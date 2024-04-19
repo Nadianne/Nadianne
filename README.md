@@ -1,11 +1,12 @@
 ### Hi everyone, i'm Nadianne Galvão 💟
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadianne-galv%C3%A3o-842833148/)
 [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/nadiannegalvao)
 
 ![Nadianne GitHub stats](https://github-readme-stats.vercel.app/api?username=Nadianne&show_icons=true&theme=transparent)
 
-##Tecnologias que utilizo: 
+## Tecnologias que utilizo: 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
