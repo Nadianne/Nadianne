@@ -1,7 +1,7 @@
 # Welcome <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="25" height="25" />
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+everyone;I'm+Nadianne+Galvão)(https://git.io/typing-svg)]
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+everyone;I'm+Nadianne+Galvão)(https://git.io/typing-svg)
 
 
 
