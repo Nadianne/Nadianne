@@ -1,7 +1,9 @@
 # Welcome <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="25" height="25" />
 
 
-[![Badge](https://images.credly.com/size/110x110/images/0169c23d-d801-43a7-bbfa-ad4c56677cbc.png)](https://www.credly.com/badges/0169c23d-d801-43a7-bbfa-ad4c56677cbc)
+# Meu Projeto no GitHub
+
+[![Badge](./junior-cybersecurity-analyst-career-path.1.png)](https://www.credly.com/badges/0169c23d-d801-43a7-bbfa-ad4c56677cbc)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+everyone;I'm+Nadianne+Galvão)](https://git.io/typing-svg)
 
