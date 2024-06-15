@@ -6,7 +6,7 @@
 
 
 
-[![Badge](./assets/junior-cybersecurity-analyst-career-path.1 (1).png)(https://www.credly.com/badges/0169c23d-d801-43a7-bbfa-ad4c56677cbc)]
+[![Badge](./assets/junior-cybersecurity-analyst-career-path-1.png)](https://www.credly.com/badges/0169c23d-d801-43a7-bbfa-ad4c56677cbc)
 
 
 ##### 💻 I am a student of the Information Systems program at the Federal University of Sergipe. Currently in the eighth semester. Throughout my course, I have developed skills in development, software engineering, database, computer networks, among others. Currently, I have also focusing my studies in the field of cybersecurity. 👩🏻‍💻
