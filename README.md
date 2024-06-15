@@ -1,11 +1,11 @@
 # Welcome <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="25" height="25" />
 
 
-# Meu Projeto no GitHub
-
-[![Badge](./junior-cybersecurity-analyst-career-path.1.png)](https://www.credly.com/badges/0169c23d-d801-43a7-bbfa-ad4c56677cbc)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+everyone;I'm+Nadianne+Galvão)](https://git.io/typing-svg)
+
+[![Badge](./junior-cybersecurity-analyst-career-path.1(1).png)](https://www.credly.com/badges/0169c23d-d801-43a7-bbfa-ad4c56677cbc)
+
 
 ##### 💻 I am a student of the Information Systems program at the Federal University of Sergipe. Currently in the eighth semester. Throughout my course, I have developed skills in development, software engineering, database, computer networks, among others. Currently, I have also focusing my studies in the field of cybersecurity. 👩🏻‍💻
 
