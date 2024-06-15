@@ -5,10 +5,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+everyone;I'm+Nadianne+Galvão)(https://git.io/typing-svg)]
 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+everyone;I'm+Nadianne+Galvão)](https://git.io/typing-svg)
 
-[![Badge](./assets/junior-cybersecurity-analyst-career-path-1.png)](https://www.credly.com/badges/0169c23d-d801-43a7-bbfa-ad4c56677cbc)
-
-
+[![Badge](./assets/junior-cybersecurity-analyst-career-path.1%20%281%29.png)](https://www.credly.com/badges/0169c23d-d801-43a7-bbfa-ad4c56677cbc)
 ##### 💻 I am a student of the Information Systems program at the Federal University of Sergipe. Currently in the eighth semester. Throughout my course, I have developed skills in development, software engineering, database, computer networks, among others. Currently, I have also focusing my studies in the field of cybersecurity. 👩🏻‍💻
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadianne-galv%C3%A3o-842833148/)
