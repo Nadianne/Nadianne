@@ -1,10 +1,9 @@
 # Welcome <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="25" height="25" />
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+everyone;I'm+Nadianne+Galvão)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+everyone;I'm+Nadianne+Galvão)
 
-##### 💻 I am a student of the Information Systems course at the Federal University of Sergipe. I am currently in my last semester. Throughout the course, I have developed skills in development, software engineering, database, computer networks, among others. Currently, I am also focusing my studies on the area of ​​cybersecurity.
-###I had the opportunity to participate in the first cohort of the Brazilian federal government's "Hackers do Bem" program, focusing my studies on the Blue Team area and advancing to the residency phase of the project.👩🏻‍💻
+##### 💻 I am a student of the Information Systems course at the Federal University of Sergipe. I am currently in my last semester. Throughout the course, I have developed skills in development, software engineering, database, computer networks, among others. Currently, I am also focusing my studies on the area of ​​cybersecurity.I had the opportunity to participate in the first cohort of the Brazilian federal government's "Hackers do Bem" program, focusing my studies on the Blue Team area and advancing to the residency phase of the project.👩🏻‍💻
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadianne-galv%C3%A3o-842833148/)
