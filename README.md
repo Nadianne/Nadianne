@@ -23,14 +23,12 @@
 
 #### Tools:
 <div style="display: inline_block">
-  <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img align="center" alt="Visual" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img align="center" alt="Git" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img align="center" alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
   <img align="center" alt="Ksli" src="https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img align="center" alt="Gimp" src="  https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF" />
 </div><br/>
 
 #### Studying in this moment: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" />
