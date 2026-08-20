@@ -38,36 +38,41 @@ I contribute to its **software development, product evolution, feature definitio
 
 ---
 
-💻 Development & Technologies
-Languages
+## 💻 Development & Technologies
 
-Python · TypeScript · JavaScript · C# · SQL
+**Languages**
+`Python` · `TypeScript` · `JavaScript` · `C#` · `SQL`
 
-Frameworks & Web
+**Frameworks & Web**
+`Next.js` · `React`
 
-Next.js · React
+**Data & Infrastructure**
+`PostgreSQL` · `Supabase` · `Docker` · `Git`
 
-Data, Infrastructure & Version Control
+---
 
-PostgreSQL · Supabase · Docker · Git
+## 🔐 Security
 
-🔐 Security & Infrastructure
+`Linux` · `OpenVAS / GVM` · `Nmap` · `OWASP ZAP` · `Burp Suite` · `DefectDojo` · `Wireshark`
 
-Linux · OpenVAS / GVM · Nmap · OWASP ZAP · Burp Suite · DefectDojo · Wireshark
+---
 
-🔬 Research & Tools
+## 🔬 Research & Tools
 
-Jupyter · LaTeX · GitHub · Figma · Fedora
+**Tools**
+`Jupyter` · `LaTeX` · `GitHub` · `Figma` · `Fedora`
 
-Research Interests
-Cybersecurity
-Software Security
-Vulnerability Analysis
-Bug Bounty
-DDoS Detection
-Machine Learning applied to Security
-Privacy and Security in Digital Health
-Software Engineering
+**Research Interests**
+
+* Cybersecurity
+* Software Security
+* Vulnerability Analysis
+* Bug Bounty
+* DDoS Detection
+* Machine Learning applied to Security
+* Privacy & Security in Digital Health
+* Software Engineering
+
 
 ---
 
