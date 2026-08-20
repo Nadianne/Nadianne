@@ -38,30 +38,36 @@ I contribute to its **software development, product evolution, feature definitio
 
 ---
 
-## 💻 Technologies
+💻 Development & Technologies
+Languages
 
-<div>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
+Python · TypeScript · JavaScript · C# · SQL
 
----
+Frameworks & Web
 
-## 🛠️ Tools & Environment
+Next.js · React
 
-<div>
-  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
-  <img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</div>
+Data, Infrastructure & Version Control
+
+PostgreSQL · Supabase · Docker · Git
+
+🔐 Security & Infrastructure
+
+Linux · OpenVAS / GVM · Nmap · OWASP ZAP · Burp Suite · DefectDojo · Wireshark
+
+🔬 Research & Tools
+
+Jupyter · LaTeX · GitHub · Figma · Fedora
+
+Research Interests
+Cybersecurity
+Software Security
+Vulnerability Analysis
+Bug Bounty
+DDoS Detection
+Machine Learning applied to Security
+Privacy and Security in Digital Health
+Software Engineering
 
 ---
 
