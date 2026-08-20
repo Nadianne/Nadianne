@@ -15,7 +15,7 @@ In 2025, I achieved **1st place in the Cybersecurity Technological Residency –
 ## 🚀 Currently building
 
 <p align="left">
-  <img src="./assets/viunf-logo.png" alt="VIU NF-e" width="180"/>
+  <img src="ViuNF.png" alt="VIU NF-e" width="180"/>
 </p>
 
 ### VIU NF-e
@@ -62,12 +62,6 @@ I contribute to its **software development, product evolution, feature definitio
   <img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
-
----
-
-## 📊 GitHub
-
-![Nadianne GitHub stats](https://github-readme-stats.vercel.app/api?username=Nadianne\&show_icons=true\&theme=transparent)
 
 ---
 
